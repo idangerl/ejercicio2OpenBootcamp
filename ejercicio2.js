@@ -1,0 +1,1 @@
+const lista = ['oscar', 25, true, new Date(1996, 4, 1), {titulo:'the lords of the rings',autor:'J. R. R. Tolkien',fecha:new Date(1954,6,29), url: 'https://www.amazon.com/-/es/J-R-R-Tolkien/dp/0544003411'}]
